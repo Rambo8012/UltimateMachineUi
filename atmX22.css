@@ -1,0 +1,1890 @@
+
+
+
+.buttonsx2{
+
+  
+  margin:5% auto 5% auto;
+
+}
+
+
+
+
+
+
+.buttonsx2 button{
+  height:30px; 
+  width:40px; 
+  border-radius: 30px;
+  border:none;
+ /* margin:0px 2px 20px 0px;*/
+  display:;
+border:1px solid lightgrey;
+
+}
+
+.buttonsx2 button:hover{
+
+  box-shadow: 0px 3px 15px 3px lightgrey;
+
+}
+
+
+#priBluex2{
+/*  background-color: #286090;
+  box-shadow: 0px 5px 10px 5px lightgrey;*/
+  background-image: url("../img/Chase.png");
+background-position:center;
+background-size: cover;
+
+}
+
+#blue1x2{
+/*  bax2ckground-color: #337ab7;
+  box-shadow: 0px 5px 10px 5px lightgrey;*/
+
+  background-image: url("../img/Chase.png");
+background-position:center;
+background-size: cover;
+
+}
+
+
+
+#redx2{
+
+
+  background-image: url("../img/bankOfamer.png");
+/*background-image: url("../img/hsbc.jpg");*/
+background-position:center;
+background-size: cover;
+}
+
+#red2x2{
+
+
+  background-image: url("../img/china.png");
+background-position:center;
+background-size: cover;
+}
+
+
+
+
+#greenx2{
+ /* background-color: green;
+  box-shadow: 0px 5px 10px 5px lightgrey;*/
+
+background-image: url("../img/sber.png");
+background-position:center;
+background-size: cover;
+
+
+}
+
+
+#navyBluex2{
+
+  background-image: url("../img/popul.png");
+/*background-image: url("../img/europe.png");*/
+background-position:center;
+background-size: cover;
+}
+
+#navy2Bluex2{
+/*  background-color: #000034;
+  box-shadow: 0px 5px 10px 5px lightgrey;
+  border:none;*/
+
+  background-image: url("../img/euro.png");
+background-position:center;
+background-size: cover;
+}
+
+#lightBluex2{
+
+  background-image: url("../img/lay.png");
+background-position:center;
+
+background-size: cover;
+
+}
+
+#orangex2{
+ 
+
+  background-image: url("../img/wells-fargo.jpg");
+background-position:center;
+background-size: cover;
+
+
+}
+
+#banresx2{
+
+background-image: url("../img/banreser.png");
+background-position:center;
+background-size: cover;
+}
+
+
+#poncex2{
+ 
+
+background-image: url("../img/euro.png");
+background-position:center;
+background-size: cover;
+
+}
+
+
+
+#blue2x2{
+
+
+  background-image: url("../img/Citib.png");
+background-position:center;
+background-size: cover;
+}
+
+
+#blue22x2{
+
+
+  background-image: url("../img/Citib.png");
+background-position:center;
+background-size: cover;
+}
+
+
+#yellowx2{
+
+
+background-image: url("../img/brazil.png");
+background-position:center;
+background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ui2x2{
+
+height: auto;
+border: 1px solid grey;
+position:;
+width: 609px;
+
+
+
+border-radius:10px;
+
+background-position:center;
+background-size: cover;
+padding-bottom: 0px;
+margin:auto;
+margin-top: 5%;
+
+
+ 
+/*  float:right;
+  clear:right;
+  margin-bottom: 5%;*/
+
+
+
+
+}
+
+
+
+
+.checkinginfo2x2{
+
+z-index:1000;
+border:2px solid white;
+border-radius:20px;
+width: 450px;
+height:370px;
+margin:60px 80px;
+
+position:;
+background-color:white;
+position:absolute;
+display:none;
+text-align: center;
+border: 3px solid grey;
+
+
+
+
+}
+.savinginfo2x2{
+
+z-index:1000;
+border:2px solid white;
+border-radius:20px;
+width: 450px;
+height:370px;
+margin:60px 80px;
+
+position:;
+background-color:white;
+position:absolute;
+display:none;
+text-align: center;
+
+border: 3px solid grey;
+
+}
+
+
+
+.assistancex2{
+    width: 600px;
+    height: 320px;
+    background-color: white;
+    background-image: url("../img/asistance.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 45%;
+    display: none;
+    z-index: 50;
+    position: absolute;
+    text-align: left;
+    padding: 20px;
+    font-size: 18px;
+    color: grey;
+    border-radius: 30px;
+    margin: 4px;
+    font-family: candara;
+}
+
+
+.assistancex2 button{
+
+
+  z-index: 50;
+position: absolute;
+text-align: center;
+width: 60px;
+height: 60px;
+padding: 5px;
+background-color:white;
+font-size:15px;
+color:red;
+transform: translate(520px, 188px);
+border:1px solid grey;
+border-radius: 30px;
+font-size: 20px;
+font-family: arial;
+
+
+
+
+}
+
+
+.lan2x2{
+
+border-top-right-radius: 7px;
+border-top-left-radius: 7px;
+height:60px;
+width: 100%;
+padding:7px 10px 10px 10px; auto;
+
+
+
+}
+
+
+.lan2x2 label{
+    
+    padding:5px;
+    margin:5px;
+    width:110px;
+
+    font-weight: 1px; 
+    color:white;
+    font-size:18px; 
+    font-family: arial;
+}
+
+
+.lan2x2 button {
+
+ padding:5px;
+    margin:5px 5px 5px 12px;
+    width:110px;
+
+    font-weight: 1px; 
+    color:white;
+    font-size:18px; 
+}
+
+
+
+.lan2x2 .dropdown-menu{
+width:60px;
+
+}
+
+
+
+.serm2x2{
+
+  opacity: .93;
+  position:relative;
+
+ 
+  height:290px;
+  width:100%;
+  display:;
+  z-index:500;
+
+
+
+
+
+}
+
+
+.innerx2{
+ 
+ opacity: .93;
+padding: 30px 20px;
+display:inline-block;
+  background-color: inherit;
+  height:290px;
+   width:303.5px;
+
+}
+
+
+/*.innerLeft{
+  float:left;
+  
+}
+
+
+.innerRight{
+  float:right;
+   
+}*/
+
+
+.sm2x2{
+
+
+    width: 100px;
+     margin:0px 3px 0px 3px ;
+     padding: 15px 7px; 
+    border-radius:18px;
+    font-size: 13px;
+    font-family: arial;
+
+}
+
+.acm2x2{
+    height: 130px;
+    width: 240px;
+    margin: 3px 13px 3px 8px;
+    padding: 20px 35px 10px 35px; 
+    border-radius: 15px;    
+    font-size: 30px;
+    font-family: arial;
+
+}
+
+.acm2x2 span{
+
+    font-size:15px;
+}
+
+
+
+
+
+
+.serDropx2{
+
+min-width:215px;
+transform:translate(275px, -280px);
+
+}
+
+.serDropx2 li button {
+    margin:5px 10px 5px 10px;
+    border-radius: 15px;
+}
+
+
+
+.glyphicon-arrow-right{
+    z-index:50;
+    color:orange;
+    right:225px;
+    top:20px;
+    position:absolute;
+    display:none;
+}
+
+
+.glyphicon-arrow-left{
+    z-index: 50;
+    color:orange;
+    right:230px;
+    top:20px;
+    position:absolute;
+    display:none;
+
+
+}
+
+
+#cheTsav2x2{
+    z-index:50;
+    color:orange;
+    right:275px;
+    top:100px;
+    position:absolute;
+    display:none;
+}
+
+#savTche2x2{
+    z-index: 50;
+    color:orange;
+    right:260px;
+    top:100px;
+    position:absolute;
+    display:none;
+
+
+}
+
+
+
+
+
+
+#toSavingx2{
+  display:none;
+  z-index: 50;
+  background-color:black;
+  color:darkgrey;
+  position:absolute;
+  width:150px;
+  height:25px;
+  right:185px;
+  top:-25px;
+  border-radius: 10px;
+  padding:2px;
+}
+
+
+
+#toCheckingx2{
+  display:none;
+  z-index: 50;
+  background-color:black;
+  color:darkgrey;
+  position:absolute;
+  width:150px;
+  height:25px;
+  right:185px;
+  top:-25px;
+  border-radius: 10px;
+  padding:2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.qty2x2{
+display:inline-block;
+height:105px;
+width: 100%;  
+font-size:20px;
+text-align: center;
+margin-bottom:0px;
+padding-left:0px;
+font-size:30px;
+
+
+}
+
+
+
+.qty2x2:hover{
+
+  cursor: pointer;
+}
+ 
+
+
+   
+#qtyvalue2x2{
+background-color:inherit;
+height:50px;
+width:250px;
+
+margin-left:0px;
+color:white;
+border:none;
+font-size:35px;
+
+}
+
+
+#billsx2{
+  font-size: 20px;
+}
+
+
+
+#qtyvalue23x2{
+
+background-color:inherit;
+height:50px;
+width:70px;
+
+margin-left:0px;
+color:white;
+border:none;
+font-size:35px;
+
+}
+
+
+
+
+
+
+#amountx2{
+margin-left: 120px;
+font-size: 35px;
+
+ 
+}
+
+
+
+#amountx2:hover{
+  cursor:pointer;
+ 
+}
+
+
+
+.numVx2{
+    display:inline-block;
+    border-radius:0px;
+    padding: 3px 5px 3px 5px;
+    height: 55px;
+    width: 55.45px;
+    font-size:23px;
+}
+
+
+
+.numRx2{
+  display: none;
+  z-index:1;
+  
+ 
+    border-radius:0px;
+    padding: 3px 5px 3px 5px;
+    height: 55px;
+    width: 55.45px;
+    font-size:23px;
+
+
+
+}
+
+.numCCx2{
+  display: none;
+
+    border-radius:0px;
+    padding: 3px 5px 3px 5px;
+    height: 55px;
+    width: 55.45px;
+    font-size:23px;
+
+}
+
+.numTx2{
+  display:hide;
+  z-index:1;
+  position:absolute;
+  transform: translate(0px,  -20px);
+    border-radius:0px;
+    padding: 3px 5px 3px 5px;
+    height: 55px;
+    width: 55.47px;
+    font-size:23px;
+
+
+
+}
+
+.numTDx2{
+  display:hide;
+transform: translate(0px,  -20px);
+    border-radius:0px;
+    padding: 3px 5px 3px 5px;
+    height: 55px;
+    width: 55.47px;
+    font-size:23px;
+
+}
+
+
+
+
+
+
+
+
+.fin2x2{
+
+opacity: .93;
+display:inline-block;
+background-color:#071422;
+border-bottom-left-radius: 7px;
+border-bottom-right-radius: 7px;
+height:81px;
+width:100%;
+padding:15px 5px 5px 10px; 
+
+
+    
+}
+
+
+#submit2Yx2{
+
+border-radius:20px;
+margin:0px 10px;
+width:130px;
+
+font-family: arial;
+padding: 15px 5px;
+
+}
+
+
+
+#exit2Yx2{
+
+margin:0px 10px;
+border-radius:20px;
+width:130px;  
+font-family: arial;
+padding: 15px 5px;
+
+}
+
+
+
+
+#submit2x2{
+display:none;
+}
+
+
+
+#exit2x2{
+display:none;
+
+}
+
+
+
+
+
+
+
+
+.confirm2x2{
+    z-index: 500;
+position:absolute;
+   height:70px;
+   width:210px;
+   display:;
+   border:5px solid white;
+   border-radius:20px;
+   background-color: white;
+   text-align: center;
+  /* transform: translate(80px,  439px);*/
+   padding:;
+   font-size:20px;
+   opacity: 1;
+   left:90px;
+   bottom:2px;
+
+}
+
+
+
+.back2x2{
+    z-index: 500;
+position:absolute;
+    height:70px;
+   width:210px;
+   display:;
+   border:5px solid white;
+   border-radius:20px;
+   background-color: white;
+   text-align: center;
+   /*transform: translate(310px,  439px);*/
+   padding:0px;
+   font-size:20px;
+   opacity: 1;
+   left:310px;
+   bottom:2px;
+
+ }
+
+ .confBack2Yx2{
+    z-index: 500;
+    position: relative;
+    height: 81px;
+    width: 606px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    background-color: #071422;
+    border: none;
+    transform: translate(-10px, -14px);
+    display: none;
+
+ }
+
+
+.confirm2Yx2{
+    z-index: 500;
+position:absolute;
+   height:70px;
+   width:210px;
+   /*display:none;*/
+   border:5px solid white;
+   border-radius:20px;
+   background-color: white;
+   text-align: center;
+  /* transform: translate(80px,  439px);*/
+   padding:;
+   font-size:20px;
+   opacity: 1;
+   left:90px;
+   bottom:2px;
+
+}
+
+
+
+.back2Yx2{
+    z-index: 500;
+position:absolute;
+    height:70px;
+   width:210px;
+  /* display:none;*/
+   border:5px solid white;
+   border-radius:20px;
+   background-color: white;
+   text-align: center;
+   /*transform: translate(310px,  439px);*/
+   padding:0px;
+   font-size:20px;
+   opacity: 1;
+   left:310px;
+   bottom:2px;
+
+ }
+
+
+ 
+
+
+
+ .confBack2x2{
+    z-index: 500;
+    position: relative;
+    height: 81px;
+    width: 601px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    background-color: #071422;
+    border: none;
+    transform: translate(-10px, -14px);
+    display: none;
+
+ }
+
+
+
+
+
+
+
+  .confBack24x2{
+z-index: 2;
+position: absolute;
+height: 79px;
+width: 600px;
+background-color: #071422;
+border: none;
+transform: translate(0px, 435px);
+display: none;
+ }
+
+
+ .confirm24x2{
+    z-index: 500;
+position:absolute;
+   height:70px;
+   width:210px;
+   display:;
+   border:5px solid white;
+   border-radius:20px;
+   background-color: white;
+   text-align: center;
+  /* transform: translate(80px,  439px);*/
+   padding:;
+   font-size:20px;
+   opacity: 1;
+   left:90px;
+   bottom:2px;
+
+}
+
+
+
+.back24x2{
+    z-index: 500;
+position:absolute;
+    height:70px;
+   width:210px;
+   display:;
+   border:5px solid white;
+   border-radius:20px;
+   background-color: white;
+   text-align: center;
+   /*transform: translate(310px,  439px);*/
+   padding:0px;
+   font-size:20px;
+   opacity: 1;
+   left:310px;
+   bottom:2px;
+}
+
+.depositCashx2{
+    z-index: 500;
+position:absolute;
+   height:400px;
+   width:550px;
+   display:none;
+   border:5px solid white;
+   border-radius:20px;
+   background-color: white;
+   text-align: center;
+   transform: translate(25px,  90px);
+   padding:30px 30px;
+   font-size:20px;
+   opacity: .95;
+}
+
+.depositCashx2  p{
+
+font-size:25px;
+}
+
+
+
+.depositx2{
+    z-index: 600;
+position:absolute;
+   height:400px;
+   width:550px;
+   display:none;
+   border:5px solid white;
+   border-radius:20px;
+   background-color: white;
+   text-align: center;
+   transform: translate(25px,  90px);
+   padding:30px 30px;
+   font-size:20px;
+   opacity: .95;
+   border:1px solid grey;
+}
+
+.depositx2  p{
+
+font-size:25px;
+}
+
+
+
+
+
+
+
+
+.retrievex2{
+    z-index: 500;
+position:absolute;
+   height:400px;
+   width:550px;
+   display:none;
+   border:5px solid white;
+   border-radius:20px;
+   background-color: white;
+   text-align: center;
+   transform: translate(25px,  100px);
+   padding:90px 30px;
+   font-size:20px;
+   opacity: .99;
+   border:1px solid grey;
+}
+
+.retrievex2  p{
+
+font-size:25px;
+}
+
+.billsx2 button{
+
+  border:2px solid white;
+  color:white;
+  background-color: inherit;
+  margin:-10px 5px 2px 2px;
+  border-radius: 1px;
+}
+
+.wrongAmountx2{
+    z-index: 500;
+position:absolute;
+   height:400px;
+   width:550px;
+   display:none;
+   border:5px solid white;
+   border-radius:20px;
+   background-color: white;
+   text-align: center;
+   transform: translate(25px,  100px);
+   padding:30px 30px;
+   font-size:20px;
+   opacity: .95;
+   color:red;
+   border:1px solid grey;
+}
+
+
+
+
+
+
+.depositCheckx2{
+    z-index: 500;
+position:absolute;
+   height:400px;
+   width:550px;
+   display:none;
+   border:5px solid white;
+   border-radius:20px;
+   background-color: white;
+   text-align: center;
+   transform: translate(25px,  100px);
+   padding:30px 30px;
+   font-size:20px;
+   opacity: .95;
+   border:1px solid grey;
+}
+
+
+
+.depositCheckx2  p{
+
+font-size:25px;
+}
+
+
+.checkCashSentx2{
+    z-index: 500;
+position:absolute;
+   height:400px;
+   width:550px;
+   display:none;
+   border:5px solid white;
+   border-radius:20px;
+   background-color: white;
+   text-align: center;
+   transform: translate(25px,  100px);
+   padding:60px 30px;
+   font-size:20px;
+   opacity: .95;
+   border:1px solid grey;
+   font-family:60px;
+}
+
+.checkCashSentx2 p{
+
+font-size:25px;
+}
+
+.savCashSentx2{
+    z-index: 500;
+position:absolute;
+   height:400px;
+   width:550px;
+   display:none;
+   border:5px solid white;
+   border-radius:20px;
+   background-color: white;
+   text-align: center;
+   transform: translate(25px,  100px);
+   padding:30px 30px;
+   font-size:20px;
+   opacity: .95;
+   border:1px solid grey;
+}
+
+.savCashSentx2 p{
+
+font-size:25px;
+}
+
+
+.selectx2{
+    z-index: 500;
+position:absolute;
+   height:400px;
+   width:550px;
+   display:none;
+   border:5px solid white;
+   border-radius:20px;
+   background-color: white;
+   text-align: center;
+   transform: translate(35px,  100px);
+   padding:30px 30px;
+   font-size:20px;
+   opacity: .95;
+
+}
+
+.selectx2 p{
+
+font-size:25px;
+}
+
+
+
+.goodbyex2{
+    z-index: 500;
+position:absolute;
+   height:400px;
+   width:550px;
+   display:none;
+   border:5px solid white;
+   border-radius:20px;
+   background-color: white;
+   text-align: center;
+   transform: translate(25px,  100px);
+   padding:30px 30px;
+   font-size:20px;
+   opacity: .95;
+   border:1px solid grey;
+}
+
+.goodbyex2 p{
+
+font-size:25px;
+}
+
+.goodbyex2 h2{
+
+font-size:40px;
+}
+
+
+
+
+.TapBx2{
+  color:white;
+  background-color:grey;
+  width:160px;
+  height:60px;
+  transform: translate(160px,  40px);
+  padding:15px 0px 0px 0px;
+  border-radius: 15px;
+ 
+
+}
+
+.TapBx2:hover{
+  cursor: pointer;
+
+  
+}
+
+
+.goodbyex2 label{
+  height:60px;
+  width:100px;
+  font-size:25px;
+   border:2px solid grey;
+}
+
+
+
+
+.sendMoney2x2{
+  display: none;
+  z-index: 50;
+  position: absolute;
+  text-align: center;
+  width: 600px;
+  height: 323px;
+  padding: 20px;
+  background-color: white;
+  font-size: 15px;
+  color: grey;
+  /* transform: translate(25px, 65px); */
+  border-radius: 30px;
+  margin: 3.5px;
+  padding-top: 50px;
+  border:1px solid grey;
+     font-family:candara;
+   
+}
+
+
+
+.sendMoney2x2 input{
+width: 360px;
+height:60px;
+margin:10px 20px ;
+font-size:30px;
+color:#286090;
+text-align: center;
+border:1px solid black;
+border-radius: 10px;
+font-family: calibri;
+
+
+}
+
+
+.sendMoney2x2 input:focus{
+width: 360px;
+height:60px;
+margin:10px;
+font-size:30px;
+color:#286090;
+text-align: center;
+border:1px solid blue;
+border-radius: 10px;
+box-shadow: 0px 0px 15px 0px lightblue;
+
+}
+
+
+.sendMoney2x2 button{
+
+
+  z-index: 50;
+position: absolute;
+text-align: center;
+width: 60px;
+height: 60px;
+padding: 5px;
+background-color:white;
+font-size:15px;
+color:grey;
+transform: translate(160px,  -12px);
+border:1px solid grey;
+border-radius: 30px;
+font-size: 20px;
+color:red;
+
+
+
+
+}
+
+.sendMoney2x2 button:hover{
+
+
+cursor:pointer;
+  box-shadow: 0px 0px 15px 0px lightblue;
+      color:red;
+
+
+
+
+}
+
+
+#closeSendx2{
+
+
+  z-index: 50;
+position: absolute;
+text-align: center;
+width: 60px;
+height: 60px;
+padding: 5px;
+background-color:white;
+font-size:15px;
+color:grey;
+transform: translate(190px, 21px);
+border:1px solid grey;
+border-radius: 30px;
+font-size: 20px;
+color:red;
+font-family: arial;
+
+
+}
+
+
+.sendMoney3x2{
+  display:none;
+  z-index: 50;
+position: absolute;
+text-align: center;
+width: 550px;
+height: 260px;
+padding: 20px;
+background-color:white;
+font-size:15px;
+color:grey;
+transform: translate(25px,  65px);
+border-radius: 30px;
+
+
+}
+
+
+
+.sendMoney3x2 input{
+width: 360px;
+height:60px;
+margin:10px 20px ;
+font-size:20px;
+color:#286090;
+text-align: center;
+border:1px solid black;
+border-radius: 10px;
+font-family: calibri;
+
+
+}
+
+
+.sendMoney3x2 input:focus{
+width: 360px;
+height:60px;
+margin:10px;
+font-size:20px;
+color:#286090;
+text-align: center;
+border:1px solid blue;
+border-radius: 10px;
+box-shadow: 0px 0px 15px 0px lightblue;
+
+}
+
+
+
+
+
+.sendMoney11x2{
+  display:none;
+  z-index: 500;
+position: absolute;
+text-align: center;
+width: 600px;
+height: 320px;
+padding: 20px;
+background-color:white;
+padding: 20px 60px 20px 110px;
+font-size:10px;
+color:grey;
+
+border-radius: 30px;
+border:1px solid grey;
+margin:4px;
+   font-family:candara;
+  
+
+}
+
+
+#closeSendQuickPayx2{
+
+
+  z-index: 50;
+position: absolute;
+text-align: center;
+width: 60px;
+height: 60px;
+padding: 5px;
+background-color:white;
+font-size:15px;
+color:grey;
+transform: translate(63px, -35px);
+border:1px solid grey;
+border-radius: 30px;
+font-size: 20px;
+color:red;
+font-family: arial;
+}
+
+
+/*/////////*/
+
+.QuickSentx2{
+  display:none;
+  z-index: 500;
+  position:absolute;
+   height:400px;
+   width:550px;
+   
+   border:5px solid white;
+   border-radius:20px;
+   background-color: white;
+   text-align: center;
+   transform: translate(25px,  100px);
+   padding:50px 70px 10px 70px;
+      font-family:candara;
+   
+   font-size:15px;
+   opacity: .98;
+   border:1px solid grey;
+   color:rgb(102, 102, 102);
+}
+
+#quickPayAmountx2{
+
+    border:none ;
+    font-size: 30px;
+    width:15%;
+}
+
+#happyFriendx2{
+
+    border:none;
+    font-size: 30px;
+    width:20%;
+
+
+}
+
+
+/*////////*/
+
+
+
+.CreditCardsx2{
+  display:none;
+  z-index: 600;
+position: absolute;
+text-align: center;
+width: 600px;
+height: 320px;
+padding: 20px;
+background-color:white;
+font-size:20px;
+color:grey;
+border-radius: 30px;
+border:1px solid lightgrey;
+margin: 4px;
+font-family: georgia;
+}
+
+
+
+
+.CreditCardsx2 span{
+
+font-size:10px;
+
+}
+
+
+#closeSendCardx2{
+
+
+  z-index: 50;
+position: absolute;
+text-align: center;
+width: 60px;
+height: 60px;
+padding: 5px;
+background-color:white;
+font-size:15px;
+color:grey;
+transform: translate(240px, -82px);
+border:1px solid grey;
+border-radius: 30px;
+font-size: 20px;
+color:red;
+font-family: arial;
+
+
+
+}
+
+.CardPaymentx2{
+  display:none;
+  z-index: 500;
+  position:absolute;
+   height:400px;
+   width:550px;
+   
+   border:5px solid white;
+   border-radius:20px;
+   background-color: white;
+   text-align: center;
+   transform: translate(25px,  100px);
+   padding:50px 70px 10px 70px;
+      font-family:candara;
+   
+   font-size:15px;
+   opacity: .98;
+   border:1px solid grey;
+   color:rgb(102, 102, 102);
+   font-family: arial;
+}
+
+#cardPaymentAmountx2{
+
+    border:none ;
+    font-size: 30px;
+    width:15%;
+}
+
+#happyCardx2{
+
+    border:none ;
+    font-size: 30px;
+    width:50%;
+
+
+
+
+}
+
+
+
+.CardStatementx2{
+
+z-index:1000;
+border:2px solid white;
+border-radius:20px;
+width: 450px;
+height: 500px;
+margin:10px 80px;
+
+position:;
+background-color:white;
+position:absolute;
+display:none;
+text-align: center;
+border: 3px solid grey;
+
+
+
+
+}
+
+#CardNamex2{
+
+width:40%;
+color:navy;
+font-size: 30px;
+font-family: candara;
+border:none;
+}
+
+/*//////////////*/
+
+
+.Loanx2{
+  display:none;
+  z-index: 100;
+position: absolute;
+text-align: center;
+width: 600px;
+height: 320px;
+padding: 80px;
+background-color:white;
+font-size:12px;
+color:grey;
+border-radius: 30px;
+border:1px solid lightgrey;
+margin: 4px;
+font-family: georgia;
+
+}
+
+#closeSendLoanx2{
+
+
+  z-index: 50;
+position: absolute;
+text-align: center;
+width: 60px;
+height: 60px;
+padding: 5px;
+background-color:white;
+font-size:15px;
+color:grey;
+transform: translate(25px, 9px);
+border:1px solid grey;
+border-radius: 30px;
+font-size: 20px;
+color:red;
+font-family: arial;
+
+
+}
+
+
+.LoanGrantedx2{
+  display:none;
+  z-index: 500;
+  position:absolute;
+   height:400px;
+   width:550px;
+   
+   border:5px solid white;
+   border-radius:20px;
+   background-color: white;
+   text-align: center;
+   transform: translate(25px,  100px);
+   padding:50px 30px 10px 30px;
+   font-family: georgia;
+   font-size:20px;
+   opacity: .98;
+   border:1px solid grey;
+   font-family:candara;
+}
+
+#loanAmountx2 {
+    border: none;
+    font-size: 50px;
+    width: 40%;
+}
+
+
+
+/*///////////////////*/
+
+
+
+
+.sendMoney3x2 button{
+
+
+  z-index: 50;
+position: absolute;
+text-align: center;
+width: 60px;
+height: 60px;
+padding: 5px;
+background-color:white;
+font-size:15px;
+color:grey;
+transform: translate(85px,  -5px);
+border:1px solid grey;
+border-radius: 30px;
+font-size: 20px;
+
+
+
+
+}
+
+.sendMoney3x2 button:hover{
+
+
+cursor:pointer;
+  box-shadow: 0px 0px 15px 0px lightblue;
+      color:red;
+
+
+
+
+}
+
+
+
+
+
+#routingx2{
+  font-size:27px;
+
+
+}
+
+#accountx2{
+  font-size:27px;
+
+
+}
+
+
+.tranToCheckingx2{
+    z-index: 500;
+position:absolute;
+   height:400px;
+   width:550px;
+   display:none;
+   border:5px solid white;
+   border-radius:20px;
+   background-color: white;
+   text-align: center;
+   transform: translate(25px,  100px);
+   padding:30px 30px;
+   font-size:20px;
+   opacity: .95;
+   border:1px solid grey;
+}
+
+
+
+ .tranToCheckingx2 p{
+
+font-size:25px;
+}
+
+
+
+.tranToSavingsx2{
+    z-index: 500;
+position:absolute;
+   height:400px;
+   width:550px;
+   display:none;
+   border:5px solid white;
+   border-radius:20px;
+   background-color: white;
+   text-align: center;
+   transform: translate(25px,  100px);
+   padding:30px 30px;
+   font-size:20px;
+   opacity: .95;
+   border:1px solid grey;
+}
+
+
+
+ .tranToSavingsx2 p{
+
+font-size:25px;
+}
+
+.tranToCheckingx2, .tranToSavingsx2 input{
+  font-size:30px;
+}
+
+
+.tranToSavingsx2 input{
+
+  font-size:36px;
+  border:none;
+
+}
+
+
+#inCheckSentx2{
+  width:100px;
+   color:black;
+   font-size:30px;
+   border:none;
+   left:200px;
+
+} 
+
+
+#inSavSentx2{
+   width:100px;
+   color:black;
+   font-size:30px;
+   border:none;
+  left:200px;
+
+
+}
+
+
+
+#inCheckx2{
+   width:100px;
+   color:black;
+   font-size:30px;
+   border:none;
+
+
+
+  } 
+
+
+
+  #inSavx2{
+   width:100px;
+   color:black;
+   font-size:30px;
+   border:none;
+
+
+  }
+
+  .friendsx2{
+display:inline-block;
+width: 80px;
+height: 80px;
+border-radius: 0px;
+border:5px solid lightgrey;
+
+margin:10px 20px;
+padding-top:75px;
+
+
+
+
+
+}
+
+  #Mikex2{
+
+  background-image: url("../img/boy3.png");
+background-position:center;
+background-size: cover;
+
+
+}
+
+
+#Jeffx2{
+
+  background-image: url("../img/boy1.png");
+background-position:center;
+background-size: cover;
+
+
+}
+
+#Mariax2{
+
+  background-image: url("../img/girl.png");
+background-position:center;
+background-size: cover;
+
+
+}
+
+
+#Johnx2{
+
+background-image: url("../img/boy7.png");
+background-position:center;
+background-size: cover;
+
+
+}
+
+
+#Leahx2{
+
+background-image: url("../img/girl3.png");
+background-position:center;
+background-size: cover;
+
+}
+
+
+#Paulx2{
+
+background-image: url("../img/boy4.png");
+background-position:center;
+background-size: cover;
+
+}
+
+
+#Jennyx2{
+
+background-image: url("../img/girl2.png");
+background-position:center;
+background-size: cover;
+
+}
+
+
+#Gokux2{
+
+background-image: url("../img/boy5.png");
+background-position:center;
+background-size: cover;
+
+}
+
+
+
+
+/*.Deno{
+
+  margin: 5% auto 5% auto;
+}*/

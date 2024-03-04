@@ -1,0 +1,115 @@
+
+
+////////Atm Fin 114////////
+//////////////////////////
+<div class="fin2x4">
+
+
+
+<div class='confBack2Yx4'>
+
+<div class='confirm2Yx4'> 
+  <h2><b> Confirm</b></h2>
+
+</div>
+
+
+
+<div class='back2Yx4'> 
+  <h2><b>Go Back</b></h2>
+  
+</div>
+</div>
+
+
+
+
+
+
+<div class='ScanconfBack2Yx4'>
+
+<div class='Scanconfirm2Yx4'> 
+  <h2><b> Confirm</b></h2>
+
+</div>
+
+
+
+<div class='Scanback2Yx4'> 
+  <h2><b>Go Back</b></h2>
+  
+</div>
+</div>
+
+
+
+
+
+  
+<label id="Scan2Yx4" class="btn btn-default btn-lg finBx4" role="button" type="submit"
+   name=""  value="submit2">SCAN <span class="VerySmallMachine">Machine</span></label>
+
+
+<label id="submit2Yx4" class="btn btn-default btn-lg finBx4" role="button" type="submit"
+   name=""  value="submit2">SUBMIT</label>
+  
+  
+
+<button id="exit2Yx4" class="btn btn-default btn-lg finBx4" role="button" type="submit" 
+  name="refill" value="submit">EXIT</button>
+
+
+
+
+
+
+
+
+<!-- /////////////Buy sell & send request///////////////////// -->
+
+  <div class="btn-group SelectSendOrRequestx4" data-toggle="buttons">
+
+        <label id="SendFundsx4" class="btn btn-warning btn-lg finBx4 SendReqFundsx4">
+         <input type="radio" name="lan"> Send</label>
+
+         <label id="RequestFundsx4" class="btn btn-warning btn-lg finBx4 SendReqFundsx4">
+         <input type="radio" name="lan"> Request</label>
+
+   </div>      
+
+
+
+
+
+  <div class="btn-group SelectBuyOrSellx4" data-toggle="buttons">
+
+        <label id="BuyFundsx4" class="btn btn-warning btn-lg finBx4 BuySellFundsx4">
+         <input type="radio" name="lan"> Buy</label>
+
+         <label id="RequestFundsx4" class="btn btn-warning btn-lg finBx4 BuySellFundsx4">
+         <input type="radio" name="lan"> Sell</label>
+
+   </div>      
+
+
+<!-- //////////////Buy sell & send request//////////////////// -->
+
+
+
+
+
+
+
+
+
+
+</div>  <!-- End of fin2 -->
+
+
+
+
+
+
+
+////////////////
+////////////////
